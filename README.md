@@ -1,5 +1,5 @@
 # Awesome-Reliable-Robots
-Collection of research papers about learning and improving robot policies to achieve greater reliability and robustness, particularly in real-world scenarios.  
+Collection of robot policy research papers demonstrating reliability and robustness in real-world scenarios.  
 Common themes include reward learning from human feedback and interventions, and value / progress estimation.
 
 | **Name** | **Date** | **Project** | **Paper** | **Code** |
