@@ -1,6 +1,8 @@
 # Awesome-Reliable-Robots
-Collection of robot policy research papers demonstrating reliability and robustness in real-world scenarios.  
-Common themes include reward learning from human feedback and interventions, and value / progress estimation.
+Collection of robotics research papers demonstrating reliability and robustness in real-world scenarios.  
+Common themes include:
+- reward learning from human feedback and interventions
+- value / progress estimation.
 
 | **Name** | **Date** | **Project** | **Paper** | **Code** |
 | --- | --- | --- | --- | --- |
