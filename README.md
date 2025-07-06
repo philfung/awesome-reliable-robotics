@@ -1,4 +1,4 @@
-# Awesome-Reliable-Robots
+# Awesome Reliable Robots
 Collection of robotics research papers demonstrating reliability and robustness in real-world scenarios.  
 Common themes include:
 - reward learning from human feedback and interventions
