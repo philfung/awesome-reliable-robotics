@@ -4,6 +4,8 @@ Common themes include:
 - reward learning from human feedback and interventions
 - value / progress estimation
 
+Open to PR!
+
 ### High Success Rate w/ Fine Tuning
 
 | **Name** | **Date** | **Real World Success Rate** |**Project** | **Paper** | **Code** |  **Organization(s)** | **Notes** |
