@@ -2,7 +2,7 @@
 A collection of robotics research papers demonstrating reliability and robustness in the real-world.  
 Common themes include:
 - reward learning from human feedback and interventions
-- value / progress estimation.
+- value / progress estimation
 
 | **Name** | **Date** | **Real World Success Rate** | **Organization(s)** | **Project** | **Paper** | **Code** | **Notes** |
 | --- | --- | --- | --- | --- | --- | --- | --- |
