@@ -12,7 +12,9 @@ Common themes include:
 
 Open to PR!
 
-### High Success Rate w/ Fine Tuning
+---
+
+## High Success Rate w/ Fine Tuning
 
 
 | **Name** | **Date** | **Real World Success Rate** |**Project** | **Paper** | **Code** |  **Organization(s)** | **Notes** |
@@ -26,7 +28,7 @@ Open to PR!
 | RLIF: INTERACTIVE IMITATION LEARNING AS REINFORCEMENT LEARNING | 03/2024 | * **95%** success rate in cloth unfolding within 7 rounds * **100%** rate success in peg insertion within 6 rounds <img alt="RLIF" src="https://github.com/user-attachments/assets/f101b109-e813-4deb-99b1-99f2e070e007" /> | <a href="https://rlif-page.github.io/" target="_blank">Link</a> | <a href="https://arxiv.org/pdf/2311.12996" target="_blank">Link</a> | <a href="https://github.com/pd-perry/RLIF" target="_blank">Link</a> | UC Berkeley |  |
 
 
-### Unseen Tasks
+## Unseen Tasks
 
 | **Name** | **Date** | **Real World Success Rate** |**Project** | **Paper** | **Code** |  **Organization(s)** | **Notes** |
 | --- | --- | --- | --- | --- | --- | --- | --- |
