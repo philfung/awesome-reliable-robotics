@@ -1,4 +1,10 @@
 # Awesome Reliable Robotics 🤖
+[![Contributions](https://img.shields.io/badge/contributions-welcome-blue)](https://github.com/philfung/awesome-reliable-robotics/graphs/contributors)
+[![Contributors](https://img.shields.io/github/contributors/philfung/awesome-reliable-robotics)](https://github.com/philfung/awesome-reliable-robotics/graphs/contributors)
+[![Last Commit](https://img.shields.io/github/last-commit/philfung/awesome-reliable-robotics)]()
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 A collection of robotics research papers demonstrating reliability and robustness in the real world.  
 Common themes include:
 - reward learning from human feedback and interventions
@@ -7,8 +13,6 @@ Common themes include:
 Open to PR!
 
 ### High Success Rate w/ Fine Tuning
-
-
 
 
 | **Name** | **Date** | **Real World Success Rate** |**Project** | **Paper** | **Code** |  **Organization(s)** | **Notes** |
