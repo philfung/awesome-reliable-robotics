@@ -5,12 +5,19 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
-A collection of robotics research papers demonstrating reliability and robustness in the real world.  
-Common themes include:
-- reward learning from human feedback and interventions
-- value / progress estimation
+A collection of robotics research papers that demonstrate reliability and robustness in the real world. 
 
-Open to PR!
+Prerequisites:
+- research must include real-world results
+- emphasis on research accompanied by reproducible code
+
+Common themes include:
+
+- Reward learning from human feedback and interventions
+
+- Value and progress estimation
+
+Contributions are welcome!
 
 ---
 
