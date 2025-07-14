@@ -4,12 +4,11 @@
 [![Last Commit](https://img.shields.io/github/last-commit/philfung/awesome-reliable-robotics)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-
 A collection of robotics research papers that demonstrate reliability and robustness in the real world. 
 
 Prerequisites:
-- research must include real-world results
-- emphasis on research accompanied by reproducible code
+- must include real-world results
+- preference on research accompanied by code
 
 Common themes include:
 
