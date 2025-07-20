@@ -8,7 +8,6 @@ A collection of robotics research papers that demonstrate reliability and robust
 
 Prerequisites:
 - must include real-world results
-- preference on research accompanied by code
 
 Common themes include:
 
