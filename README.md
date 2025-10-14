@@ -13,7 +13,7 @@ Common themes include:
 
 - Reward learning from human feedback and interventions
 - Value and progress estimation
-- Online Fine tuning
+- Online fine tuning
 
 Contributions are welcome!
 
