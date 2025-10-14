@@ -12,14 +12,12 @@ Prerequisites:
 Common themes include:
 
 - Reward learning from human feedback and interventions
-
 - Value and progress estimation
+- Online Fine tuning
 
 Contributions are welcome!
 
 ---
-
-## High Success Rate w/ Online Fine Tuning
 
 | **Name** | **Date** | **Real World Success Rate** |**Project** | **Paper** | **Code** |  **Organization(s)** | **Notes** |
 | --- | --- | --- | --- | --- | --- | --- | --- |
