@@ -14,7 +14,6 @@ Common themes include:
 
 - Reward learning from human feedback and interventions
 - Value and progress estimation
-- Online fine tuning
 - World models
 
 Contributions are welcome!
