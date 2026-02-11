@@ -7,8 +7,7 @@
 A curated collection of robotics papers focused on real-world reliability and robustness. 
 Originally a personal reference, I’m sharing this list in hopes it helps others.
 
-Prerequisite:
-- must include real-world results
+Prerequisite: must include real-world results.
 
 Contributions are welcome!
 
