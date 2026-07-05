@@ -5,11 +5,10 @@
 [![Last Commit](https://img.shields.io/github/last-commit/philfung/awesome-reliable-robotics)](https://github.com/philfung/awesome-reliable-robotics/commits/main/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-A curated collection of robotics papers, systems, and project writeups focused on real-world reliability and robustness.
-
-The bar for inclusion is simple: the work must report real-world robot results, not only simulation or benchmarks.
-
-Contributions are welcome. Please include the paper or project link, the reported real-world result, and enough context to understand why the result is reliable or robust.
+A curated collection of robotics papers focused on real-world reliability and robustness.
+Initially was a personal log but thought it might be useful to others.
+Work must report real-world robot results, not only simulation.
+Contributions are welcome!
 
 | **Name** | **Date** | **Real-World Success Rate** | **Categories** | **Code** | **Paper** | **Project** | **Organization(s)** | **Key Insight** | **Architecture** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
